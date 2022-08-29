@@ -2,7 +2,7 @@
 Body Mass Index calculator.
 
 
-![EsamTech](Documentation/EsamTech.png)
+![EsamTech](Documentation/EsamTech.jpg)
 
 #  BMI Calculator
 
