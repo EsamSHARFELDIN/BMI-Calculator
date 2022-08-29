@@ -1,9 +1,6 @@
 # BMI-Calculator-
 Body Mass Index calculator.
 
-
-![EsamTech](Documentation/EsamTech.jpg)
-
 #  BMI Calculator
 
 ## Our Goal
